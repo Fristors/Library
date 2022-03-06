@@ -1,0 +1,60 @@
+.Heading {
+    margin: auto;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+.Header{
+    width: 100%;
+    top:0;
+    left: 0;
+    right: 0;
+    background-image: url("./wadwa.png");
+    display: flex;
+    flex-direction: column;
+}
+.FindSearch{
+    margin-top: 20px;
+    position: relative;
+    width: 600px;
+    margin: auto;
+}
+.Find{
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    width: 600px;
+    font-size: 24px;
+    outline: none;
+}
+.Search{
+    font-size: 20px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: white;
+}
+.Selectors{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+}
+.Categor{
+    display: flex;
+    flex-direction: row;
+}
+.Sorting {
+    display: flex;
+    flex-direction: row;
+}
+p {
+    margin: 0 auto;
+    color: white;
+    font-size: 28px;
+}

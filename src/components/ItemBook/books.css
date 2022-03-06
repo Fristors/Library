@@ -1,0 +1,9 @@
+.Books{
+    width: 1200px;
+    margin: auto;
+    grid-gap: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,41 @@
+.BgBook {
+    width: 270px;
+    background: lightgray;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.RabZone{
+    margin: 15px;
+}
+.ImgBook {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ImgBook img{
+    margin: auto;
+    margin-top: 20px;
+    justify-content: center;
+    width: 200px;
+    height: 250px;
+}
+.ImgBook button {
+    height: 30px;
+}
+.ImgBook a{
+    font-size: 14px;
+    color: gray;
+}
+.BookName {
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+
+
+}
+.BookAuthor{
+    color: gray;
+    margin-top: 5px;
+}
